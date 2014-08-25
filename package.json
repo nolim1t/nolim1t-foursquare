@@ -1,0 +1,27 @@
+{
+    "name": "nolim1t-foursquare",
+    "description": "My own foursquare API function library",
+    "version": "0.0.1",
+    "homepage": "https://github.com/nolim1t/nolim1t-foursquare",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/nolim1t/nolim1t-foursquare.git"
+    },
+    "author": "Barry Teoh <bt@perceptionz.net>",
+    "keywords": [
+        "library",
+        "geolocation"
+    ],
+    "main": "./lib/foursquare.coffee",
+    "directories": {
+        "lib": "lib"
+    },
+    "dependencies": {
+        "coffee-script": "1.2.0",
+        "request": "2.9.3"
+    },
+    "engines": {
+        "node": ">=0.10.28",
+        "npm": ">=1.4.9"
+    }
+}
