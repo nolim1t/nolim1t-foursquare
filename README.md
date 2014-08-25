@@ -10,3 +10,13 @@ It's probably quite unstructured, but I'm putting it up on version control and a
 Installing
 ---------------
 npm install nolim1t-foursquare
+
+Example Usage
+---------------
+Mostly coming soon
+
+But use 
+
+```node.js
+require("nolim1t-foursquare").functionname "parameters", callback
+```
